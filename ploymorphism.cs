@@ -1,6 +1,8 @@
 //polymorphism
 
 //Account.cs
+using System.Runtime;
+
 namespace polymorphism;
 public class Account
 {
@@ -22,5 +24,17 @@ public class SavingAccount : Account
        Balance += amount;
        Balance+= Balance*IntrestRate;
        Console.WriteLine($" Saving Account: deposited:{amount},New balance:{Balance}");
+    }
+}
+
+//CurrentAccount.cs
+
+namespace polymorphism;
+public class CurrentAccount: Account
+{
+    public override void ProcessTransaction(Decimal amount)
+    {
+        Balance+=amount;
+        Console.WriteLine($" Current Account : deposited:{amount} , New Balance:{Balance}");
     }
 }
