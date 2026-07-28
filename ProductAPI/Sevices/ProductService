@@ -1,0 +1,19 @@
+namespace services;
+using entities;
+using System.Collection.Generic;     
+public class ProductService{
+   public static List<Product> GetAll(){
+    List<Product> products =new List<Product>;
+    Products.Add(new product{ID=1,Title="Gerbera",Price=20.2});
+    Products.Add(new product{ID=2,Title="Rose",Price=52.2});
+    Products.Add(new product{ID=3,Title="Lily",Price=12.4});
+    Products.Add(new product{ID=4,Title="Tulip",Price=33});
+    Products.Add(new product{ID=5,Title="Gerbera",Price=21.5});
+    return products;
+   }
+
+   public static string Insert(){
+    console.Writeline("data is inserted succesfully");
+    return("success");
+   }
+ }

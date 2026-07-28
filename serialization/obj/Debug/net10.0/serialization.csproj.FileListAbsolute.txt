@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\obj\Debug\net10.0\serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\obj\Debug\net10.0\serialization.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\obj\Debug\net10.0\serialization.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\obj\Debug\net10.0\serialization.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\bin\Debug\net10.0\serialization.exe
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\bin\Debug\net10.0\serialization.deps.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\bin\Debug\net10.0\serialization.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\bin\Debug\net10.0\serialization.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\bin\Debug\net10.0\serialization.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\obj\Debug\net10.0\serialization.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\obj\Debug\net10.0\refint\serialization.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\obj\Debug\net10.0\serialization.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\obj\Debug\net10.0\serialization.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\serialization\obj\Debug\net10.0\ref\serialization.dll

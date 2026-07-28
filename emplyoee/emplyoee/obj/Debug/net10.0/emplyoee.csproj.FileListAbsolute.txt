@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\obj\Debug\net10.0\emplyoee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\obj\Debug\net10.0\emplyoee.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\obj\Debug\net10.0\emplyoee.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\obj\Debug\net10.0\emplyoee.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\bin\Debug\net10.0\emplyoee.exe
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\bin\Debug\net10.0\emplyoee.deps.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\bin\Debug\net10.0\emplyoee.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\bin\Debug\net10.0\emplyoee.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\bin\Debug\net10.0\emplyoee.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\obj\Debug\net10.0\emplyoee.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\obj\Debug\net10.0\refint\emplyoee.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\obj\Debug\net10.0\emplyoee.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\obj\Debug\net10.0\emplyoee.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\emplyoee\emplyoee\obj\Debug\net10.0\ref\emplyoee.dll

@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\obj\Debug\net10.0\area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\obj\Debug\net10.0\area.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\obj\Debug\net10.0\area.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\obj\Debug\net10.0\area.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\bin\Debug\net10.0\area.exe
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\bin\Debug\net10.0\area.deps.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\bin\Debug\net10.0\area.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\bin\Debug\net10.0\area.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\bin\Debug\net10.0\area.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\obj\Debug\net10.0\area.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\obj\Debug\net10.0\refint\area.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\obj\Debug\net10.0\area.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\obj\Debug\net10.0\area.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\area\obj\Debug\net10.0\ref\area.dll

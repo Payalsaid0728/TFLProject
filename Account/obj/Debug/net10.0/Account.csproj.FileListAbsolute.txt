@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\bin\Debug\net10.0\Account.exe
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\bin\Debug\net10.0\Account.deps.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\bin\Debug\net10.0\Account.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\bin\Debug\net10.0\Account.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\bin\Debug\net10.0\Account.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\obj\Debug\net10.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\obj\Debug\net10.0\Account.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\obj\Debug\net10.0\Account.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\obj\Debug\net10.0\Account.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\obj\Debug\net10.0\Account.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\obj\Debug\net10.0\refint\Account.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\obj\Debug\net10.0\Account.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\obj\Debug\net10.0\Account.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\Account\obj\Debug\net10.0\ref\Account.dll

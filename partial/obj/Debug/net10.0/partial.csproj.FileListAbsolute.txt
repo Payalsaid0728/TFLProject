@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\bin\Debug\net10.0\partial.exe
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\bin\Debug\net10.0\partial.deps.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\bin\Debug\net10.0\partial.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\bin\Debug\net10.0\partial.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\bin\Debug\net10.0\partial.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\obj\Debug\net10.0\partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\obj\Debug\net10.0\partial.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\obj\Debug\net10.0\partial.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\obj\Debug\net10.0\partial.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\obj\Debug\net10.0\partial.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\obj\Debug\net10.0\refint\partial.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\obj\Debug\net10.0\partial.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\obj\Debug\net10.0\partial.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\partial\obj\Debug\net10.0\ref\partial.dll

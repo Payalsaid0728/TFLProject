@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\obj\Debug\net10.0\prachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\obj\Debug\net10.0\prachi.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\obj\Debug\net10.0\prachi.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\obj\Debug\net10.0\prachi.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\bin\Debug\net10.0\prachi.exe
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\bin\Debug\net10.0\prachi.deps.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\bin\Debug\net10.0\prachi.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\bin\Debug\net10.0\prachi.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\bin\Debug\net10.0\prachi.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\obj\Debug\net10.0\prachi.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\obj\Debug\net10.0\refint\prachi.dll
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\obj\Debug\net10.0\prachi.pdb
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\obj\Debug\net10.0\prachi.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\TFL\dotnet\prachi\obj\Debug\net10.0\ref\prachi.dll
