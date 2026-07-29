@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\serialization\\serialization.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\serialization\\serialization.csproj",
       "projectName": "serialization",
-      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\serialization\\serialization.csproj",
+      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\serialization\\serialization.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\serialization\\obj\\",
+      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\serialization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Interface\\Interface.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Interface\\Interface.csproj",
       "projectName": "Interface",
-      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Interface\\Interface.csproj",
+      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Interface\\Interface.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Interface\\obj\\",
+      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Array\\single\\single.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Array\\single\\single.csproj",
       "projectName": "single",
-      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Array\\single\\single.csproj",
+      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Array\\single\\single.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Array\\single\\obj\\",
+      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Array\\single\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

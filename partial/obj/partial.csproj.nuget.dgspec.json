@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\partial\\partial.csproj": {}
+    "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\partial\\partial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\partial\\partial.csproj": {
+    "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\partial\\partial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\partial\\partial.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\partial\\partial.csproj",
         "projectName": "partial",
-        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\partial\\partial.csproj",
+        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\partial\\partial.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\partial\\obj\\",
+        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\partial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

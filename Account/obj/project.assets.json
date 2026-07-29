@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Account\\Account.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Account\\Account.csproj",
       "projectName": "Account",
-      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Account\\Account.csproj",
+      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Account\\Account.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Account\\obj\\",
+      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Account\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

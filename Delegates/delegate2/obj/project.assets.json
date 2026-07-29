@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Delegates\\delegate2\\delegate2.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Delegates\\delegate2\\delegate2.csproj",
       "projectName": "delegate2",
-      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Delegates\\delegate2\\delegate2.csproj",
+      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Delegates\\delegate2\\delegate2.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\Delegates\\delegate2\\obj\\",
+      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\Delegates\\delegate2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

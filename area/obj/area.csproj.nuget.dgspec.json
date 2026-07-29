@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\area\\area.csproj": {}
+    "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\area\\area.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\area\\area.csproj": {
+    "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\area\\area.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\area\\area.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\area\\area.csproj",
         "projectName": "area",
-        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\area\\area.csproj",
+        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\area\\area.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\area\\obj\\",
+        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\area\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

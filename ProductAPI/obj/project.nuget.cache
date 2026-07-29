@@ -1,24 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "GC3FtIRzCr8=",
+  "dgSpecHash": "YeLQ64rL6ZU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\ProductAPI\\ProductAPI.csproj",
+  "projectFilePath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\ProductAPI\\ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": [
     {
-      "code": "NU1903",
+      "code": "NU1900",
       "level": "Warning",
-      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
-      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\ProductAPI\\ProductAPI.csproj",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\ProductAPI\\ProductAPI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\ProductAPI\\ProductAPI.csproj",
-      "libraryId": "Microsoft.OpenApi",
-      "targetGraphs": [
-        "net10.0"
-      ]
+      "filePath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\ProductAPI\\ProductAPI.csproj",
+      "targetGraphs": []
     }
   ]
 }

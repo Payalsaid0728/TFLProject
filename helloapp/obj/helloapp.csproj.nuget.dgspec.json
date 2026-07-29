@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\helloapp\\helloapp.csproj": {}
+    "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\helloapp\\helloapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\helloapp\\helloapp.csproj": {
+    "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\helloapp\\helloapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\helloapp\\helloapp.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\helloapp\\helloapp.csproj",
         "projectName": "helloapp",
-        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\helloapp\\helloapp.csproj",
+        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\helloapp\\helloapp.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFL\\dotnet\\helloapp\\obj\\",
+        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\TFLProject\\helloapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
